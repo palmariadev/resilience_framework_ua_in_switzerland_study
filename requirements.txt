@@ -1,0 +1,11 @@
+ipykernel
+jupyterlab
+kaleido
+nbconvert
+nbformat
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+statsmodels

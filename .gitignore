@@ -1,0 +1,10 @@
+archive/
+env/
+outputs/
+.cursor/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+desktop.ini
+.DS_Store
